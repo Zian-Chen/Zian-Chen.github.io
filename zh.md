@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /zh/index.html
+title: zh
 ---
 
 # About Me
