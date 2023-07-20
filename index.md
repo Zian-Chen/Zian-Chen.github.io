@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Some other languages: [中文版](https://zian-chen.github.io/zh/) and [Version Française](https://zian-chen.github.io/fr/)
+Some other languages: **[中文版](https://zian-chen.github.io/zh/)** and **[Version Française](https://zian-chen.github.io/fr/)**
 
 # About Me
 

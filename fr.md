@@ -4,9 +4,9 @@ permalink: /fr/index.html
 title: About me_fr
 ---
 
-Quelques autres langues: [中文版](https://zian-chen.github.io/zh/) et [English version](https://zian-chen.github.io)
+Quelques autres langues: **[中文版](https://zian-chen.github.io/zh/)** et **[English version](https://zian-chen.github.io)**
 
-# About Me
+# À propos de moi
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 

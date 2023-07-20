@@ -4,9 +4,9 @@ permalink: /zh/index.html
 title: About me_zh
 ---
 
-一些其他的语言: [English version](https://zian-chen.github.io) 和 [Version Française](https://zian-chen.github.io/fr/)
+一些其他的语言: **[English version](https://zian-chen.github.io)** 和 **[Version Française](https://zian-chen.github.io/fr/)**
 
-# About Me
+# 关于我
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
