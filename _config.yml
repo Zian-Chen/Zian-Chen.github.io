@@ -7,12 +7,12 @@ url: https://zian-chen.github.io
 # Owner/author information
 owner:
   name: Zian Chen
-  avatar: icon.jpg
+  # avatar: icon.jpg
 #  bio:
   email: tzyyan.chern@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  facebook: Zian Chen
+  facebook: profile.php?id=100091147999812
   github: Zian-Chen
   # linkedin: hanlin-cai-07b53b23b
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/Resume-HanlinCAI.pdf
+    url: /file/Zian Chen CV.pdf
   - title: Publications
     url: /publications/
   - title: Projects
@@ -48,7 +48,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: France/Paris
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: zianc
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
