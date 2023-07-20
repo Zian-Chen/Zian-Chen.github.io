@@ -10,9 +10,9 @@ title: About me_zh
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+这里是陈子安.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+目前我正在巴黎综合理工学院攻读工程师硕士的学业, 聚焦于数学相关专业的学习. 我本科毕业于中国科学技术大学少年班学院少年班, 专业为数学与应用数学. 我于中法数学英才班中完成三年的学习任务, 随后前往法国并在线上完成毕业设计« 七维流形上的G<sub>2</sub>-结构 ».
 
 <br>
 
