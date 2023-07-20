@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /zh/index.html
-title: About me_zh
+permalink: /fr/index.html
+title: About me_fr
 ---
 
-一些其他的语言: [English version](https://zian-chen.github.io) 和 [Version Française](https://zian-chen.github.io/fr/)
+Quelques autres langues: [中文版](https://zian-chen.github.io/zh/) et [English version](https://zian-chen.github.io)
 
 # About Me
 

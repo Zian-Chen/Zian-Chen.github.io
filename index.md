@@ -2,11 +2,11 @@
 layout: page
 ---
 
+Some other languages: [中文版](https://zian-chen.github.io/zh/) and [Version Française](https://zian-chen.github.io/fr/)
+
 # About Me
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
-
-Some other languages: [中文版](https://zian-chen.github.io/zh/)
 
 Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
