@@ -8,7 +8,7 @@ Quelques autres langues: **[中文版](https://zian-chen.github.io/zh/)** et **[
 
 # À propos de moi
 
-<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
+<img src="/images/again.jpg" class="floatpic" width="360" height="480">
 
 Voici Zian Chen.
 

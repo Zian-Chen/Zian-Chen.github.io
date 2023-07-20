@@ -8,7 +8,7 @@ title: About me_zh
 
 # 关于我
 
-<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
+<img src="/images/again.jpg" class="floatpic" width="360" height="480">
 
 这里是陈子安.
 
