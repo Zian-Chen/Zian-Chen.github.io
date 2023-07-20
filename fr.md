@@ -4,15 +4,15 @@ permalink: /fr/index.html
 title: About me_fr
 ---
 
-Quelques autres langues: **[中文版](https://zian-chen.github.io/zh/)** et **[English version](https://zian-chen.github.io)**
+Quelques autres langues: **[中文版](https://zian-chen.github.io/zh/)** et **[English Version](https://zian-chen.github.io)**
 
 # À propos de moi
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Voici Zian Chen.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+Actuellement, je poursuis le Master d'ingénieur à l'École Polytechnique, en me concentrant sur l'étude des disciplines liées aux mathématiques. J'ai obtenu mon licence à l'Université des Sciences et Technologies de Chine, avec une spécialisation en mathématiques et en mathématiques appliquées. J'ai réussi avec succès un programme de trois ans dans la Classe des Talents en Mathématiques Chine-France avant d'arriver en France. Ensuite, j'ai voyagé en France et achevé mon projet de fin d'études intitulé « Structures G<sub>2</sub> sur les 7-variétés » en ligne.
 
 <br>
 

@@ -8,13 +8,13 @@ Some other languages: **[中文版](https://zian-chen.github.io/zh/)** and **[Ve
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is Zian Chen.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+Currently, I am pursuing the Master d'ingénieur at the École Polytechnique, with a focus on studying mathematics-related disciplines. I completed my undergraduate studies at the University of Science and Technology of China, majoring in Mathematics and Applied Mathematics. I successfully completed a three-year program in the China-France Mathematics Talents Class before arriving in France. Then I traveled to France and completed my graduation project titled "G<sub>2</sub>-Structures on 7-Manifolds" online.
 
 <br>
 
-## Academic Background
+## Education
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
