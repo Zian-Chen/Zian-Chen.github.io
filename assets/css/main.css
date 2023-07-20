@@ -88,7 +88,7 @@ h1,h2,h3,h4,h5,h6{color:#333332;}
 @font-face{font-family:'Libre Bodoni';src:url('../fonts/LibreBodoni-Regular.ttf') format('truetype');font-weight:normal;font-style:normal;}[data-icon]:before{font-family:'icomoon';content:attr(data-icon);speak:none;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;}
 @font-face{font-family:'Fangzheng';src:url('../fonts/FangZhengShuSongJianTi-1.ttf') format('truetype');font-weight:normal;font-style:normal;}[data-icon]:before{font-family:'icomoon';content:attr(data-icon);speak:none;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;}
 @font-face{font-family:'EB Garamond';src:url('../fonts/EBGaramond-Regular.woff') format('woff'),url('../fonts/EBGaramond-Regular.woff2') format('woff2');font-weight:normal;font-style:normal;}[data-icon]:before{font-family:'icomoon';content:attr(data-icon);speak:none;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;}
-h1,h2,h3,h4,h5,h6{font-family:'Libre Bodoni','Fangzheng',sans-serif;font-weight:700;}
+h1,h2,h3,h4,h5,h6{font-family:'Libre Bodoni','Fangzheng',serif;font-weight:700;}
 
 h6{font-weight:400;}
 a{text-decoration:none;color:#343434;}a:visited{color:#4e4e4e;}
@@ -100,7 +100,9 @@ ul li{list-style-type:square;}
 ol li{list-style-type:upper-roman;}
 p>a,li>a,em>a,a>em,footer a{text-decoration:none;border-bottom:1px dotted #b3b3b1;}
 p>a:hover,li>a:hover,em>a:hover,footer a:hover{text-decoration:none;border-bottom:1px solid #b3b3b1;}
-figcaption{margin-top:0.75em;line-height:1.25;font-size:18px;font-size:1rem;margin-bottom:1.65rem;font-family:'PT Sans Narrow',sans-serif;counter-increment:captions;}figcaption:before{font-weight:700;text-transform:uppercase;content:"Figure " counter(captions) ": ";}
+
+figcaption{margin-top:0.75em;line-height:1.25;font-size:18px;font-size:1rem;margin-bottom:1.65rem;font-family:'Libre Bodoni','Fangzheng',serif;counter-increment:captions;}figcaption:before{font-weight:700;text-transform:uppercase;content:"Figure " counter(captions) ": ";}
+
 .notice{margin-top:1.5em;padding:.5em 1em;text-indent:0;font-size:90%;background-color:#ddd;border-left:10px solid #ccc;}
 blockquote{font-style:italic;margin-left:0;padding-left:1em;border-left:10px solid #ccc;}blockquote p+p{text-indent:0;margin-top:0;}
 .footnotes{font-size:90%;}
