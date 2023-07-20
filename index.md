@@ -6,7 +6,7 @@ Some other languages: **[中文版](https://zian-chen.github.io/zh/)** and **[Ve
 
 # About Me
 
-<img src="/images/again.jpg" class="floatpic" width="360" height="480">
+<img src="/images/again.JPG" class="floatpic" width="360" height="480">
 
 Here is Zian Chen.
 
