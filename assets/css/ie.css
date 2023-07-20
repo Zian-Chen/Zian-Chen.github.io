@@ -227,7 +227,9 @@ html{background-color:#ffffff;font-family:'EB Garamond','Fangzheng',serif;font-c
 .recent-grid:after{clear:both;}
 .recent-grid li{display:inline;}.recent-grid li a{border-bottom:0 solid transparent;}.recent-grid li a:hover{border-bottom:0 solid transparent;}
 .recent-grid img{width:19%;margin-bottom:1%;}
-.holder{font-family:'PT Sans Narrow',sans-serif;}.holder a{cursor:pointer;margin:0 5px;}
+
+.holder{font-family:'Libre Bodoni','Fangzheng',sans-serif;}.holder a{cursor:pointer;margin:0 5px;}
+
 .holder a.jp-previous{margin-left:0;margin-right:15px;}
 .holder a.jp-next{margin-left:15px;margin-right:0;}
 .holder a.jp-current{font-weight:bold;}
