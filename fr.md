@@ -16,14 +16,11 @@ Actuellement, je poursuis le Master d'ingénieur à l'École Polytechnique, en m
 
 <br>
 
-## Academic Background
+## Formation
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025.
+- **Sep 2022 - Juin 2025** École Polytechnique, Master d'ingénieur
+- **Sep 2019 - Juin 2023** Université des Sciences et Technologies de Chine, Licence de Sciences Naturelles
+- **Sep 2017 - Juin 2020** Lycée de Wenzhou Zhejiang
 
 <br>
 

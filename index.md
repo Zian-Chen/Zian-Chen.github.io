@@ -16,12 +16,9 @@ Currently, I am pursuing the Master d'ingénieur at the École Polytechnique, wi
 
 ## Education
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025.
+- **Sep. 2022 - June 2025** École Polytechnique, Master d'ingénieur
+- **Sep. 2019 - June 2023** University of Science and Technology of China, Bachelor of Natural Science
+- **Sep. 2017 - June 2020** Zhejiang Wenzhou High School
 
 <br>
 

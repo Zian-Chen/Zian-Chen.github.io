@@ -16,14 +16,13 @@ title: About me_zh
 
 <br>
 
-## Academic Background
+## 教育
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+<!--**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)-->
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025.
+- **2022年9月 - 2025年6月** 巴黎综合理工学院, 工程师硕士
+- **2019年9月 - 2023年6月** 中国科学技术大学, 理学学士
+- **2017年9月 - 2020年6月** 浙江省温州中学
 
 <br>
 

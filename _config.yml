@@ -38,8 +38,8 @@ links:
     url: /file/Zian_Chen_CV.pdf
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
+  # - title: Projects
+  #   url: /projects/
   - title: Awards
     url: /awards/
   - title: Hobbies
