@@ -4,8 +4,6 @@ permalink: /others/index.html
 title: Others
 ---
 
-# Others
-
 ## Teaching
 
 <!--<div class="third">
