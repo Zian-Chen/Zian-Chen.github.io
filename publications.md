@@ -6,25 +6,27 @@ title: Publications
 
 # Publications
 
-Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
-
 ## Undergrad Thesis
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
-
-## Conference Paper
-
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+- [G<sub>2</sub>-Structures on 7-Manifolds](https://zian-chen.github.io/papers/Thesis_without_acknowledgements.pdf)(Chinese)
+<br>**Zian Chen** (Advisor: Hao Yin)
+<br>School of Mathematical Sciences, USTC
+<br>Hefei, China. May, 2023.
+<br>
 
 ---
 
-## Competition Paper
+## Other Writings
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
+- [Introduction to Principal Bundle](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf)(Chinese)
+<br>Kaicheng Bao, **Zian Chen**
+<br>School of Mathematical Sciences, USTC
+<br>Hefei, China. June, 2022.
+<br>
 
-## Working Manuscript
-
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>
+- [Self-Dual in 4D Riemannian Geometry](https://zian-chen.github.io/papers/Self-Duality.pdf)(Chinese)
+<br>**Zian Chen**, Le Zhang, Haixin Zhu (Advisor: Hao Yin)
+<br>School of Mathematical Sciences, USTC
+<br>Hefei, China. May, 2022.
+<br>
 
