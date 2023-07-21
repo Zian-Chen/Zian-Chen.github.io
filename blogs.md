@@ -5,7 +5,9 @@ title: Blogs
 ---
 
 I'm very sorry, but only Chinese can express my inner thoughts.
-Je suis vraiment désolé, mais seul le chinois peut exprimer mes pensées les plus intimes.
+<br> Je suis vraiment désolé, mais seul le chinois peut exprimer mes pensées les plus intimes.
+
+---
 
 ## 博客
 
