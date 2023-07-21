@@ -23,7 +23,7 @@ title: Others
 
 ## Friend Links
 
-一些友链
+[Ziang Zhang/张梓昂](zhang-ziang.github.io)
 
 
 
