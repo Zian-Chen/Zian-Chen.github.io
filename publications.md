@@ -10,7 +10,7 @@ title: Publications
 
 - [G<sub>2</sub>-Structures on 7-Manifolds](https://zian-chen.github.io/papers/Thesis_without_acknowledgements.pdf)(Chinese)
 <br>**Zian Chen** (Advisor: Hao Yin)
-<br>School of Mathematical Sciences, USTC
+<br>School of Gifted Young, USTC
 <br>Hefei, China. May, 2023.
 <br>
 
