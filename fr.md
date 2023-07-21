@@ -4,7 +4,7 @@ permalink: /fr/index.html
 title: About me_fr
 ---
 
-Quelques autres langues: **[中文版](https://zian-chen.github.io/zh/)** et **[English Version](https://zian-chen.github.io)**
+**[中文版](https://zian-chen.github.io/zh/)** et **[English Version](https://zian-chen.github.io)**
 
 # À propos de moi
 

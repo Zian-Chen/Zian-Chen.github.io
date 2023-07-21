@@ -4,7 +4,7 @@ permalink: /zh/index.html
 title: About me_zh
 ---
 
-一些其他的语言: **[English Version](https://zian-chen.github.io)** 和 **[Version Française](https://zian-chen.github.io/fr/)**
+**[English Version](https://zian-chen.github.io)** 和 **[Version Française](https://zian-chen.github.io/fr/)**
 
 # 关于我
 
