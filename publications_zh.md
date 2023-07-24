@@ -6,7 +6,7 @@ title: Publications_zh
 
 **[English Version](https://zian-chen.github.io/publications/)**
 
-# 写作刊物
+# 刊物
 
 ## 本科毕业论文
 
@@ -18,7 +18,7 @@ title: Publications_zh
 
 ---
 
-## 其他作品
+## 其他写作
 
 - [主从介绍](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf)(中文)
 <br>包恺成, **陈子安**
