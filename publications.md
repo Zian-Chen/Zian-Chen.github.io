@@ -4,6 +4,8 @@ permalink: /publications/index.html
 title: Publications
 ---
 
+**[中文版](https://zian-chen.github.io/publications_zh/)**
+
 # Publications
 
 ## Undergrad Thesis
