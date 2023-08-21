@@ -10,6 +10,8 @@ title: Others_zh
 
 电动力学助教
 [第一次习题课](https://zian-chen.github.io/file/TD-1.pdf)
+[第二次习题课](https://zian-chen.github.io/file/TD-2.pdf)
+[第三次习题课](https://zian-chen.github.io/file/TD-3.pdf)
 
 ## 社会与志愿工作
 
