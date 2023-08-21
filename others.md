@@ -4,13 +4,10 @@ permalink: /others/index.html
 title: Others
 ---
 
+**[中文版](https://zian-chen.github.io/others_zh/)**
+
 ## Teaching
 
-<!--<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div> -->
 电动力学助教
 
 ## Social and Voluntary Works
@@ -23,7 +20,11 @@ title: Others
 
 ## Friend Links
 
-[Ziang Zhang(张梓昂)](https://zhang-ziang.github.io/)
+[Ziang Zhang](https://zhang-ziang.github.io/)
 
 
-
+<!--<div class="third">
+<img src="/images/prelection1.JPG">
+<img src="/images/speech1.JPG">
+<img src="/images/speech3.JPG">
+</div> -->
