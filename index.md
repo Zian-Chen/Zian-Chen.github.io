@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**[中文版](https://zian-chen.github.io/zh/)** and **[Version Française](https://zian-chen.github.io/fr/)**
+<div style="border-width: 3px; border-style:solid ; width: 150px; height: 30px; border-color: black;border-radius: 4px; padding: 5px; text-align: center;">**[中文版](https://zian-chen.github.io/zh/)**</div> and **[Version Française](https://zian-chen.github.io/fr/)**
 
 # About Me
 
