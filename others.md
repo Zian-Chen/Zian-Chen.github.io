@@ -20,7 +20,7 @@ title: Others
 
 ## Friend Links
 
-[Ziang Zhang](https://zhang-ziang.github.io/)
+[Ziang Zhang](https://zhang-ziang.github.io/) [Siyuan Zou](https://siyuan-zou.github.io/)
 
 
 <!--<div class="third">
