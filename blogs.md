@@ -13,4 +13,4 @@ Only Chinese can express my inner thoughts.
 
 ### 2023
 
-- [毕业记](https://zian-chen.github.io/blogs/graduate)
+- [夜半有思](https://zian-chen.github.io/blogs/230910)
