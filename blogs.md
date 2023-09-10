@@ -14,3 +14,6 @@ Only Chinese can express my inner thoughts.
 ### 2023
 
 - [夜半有思](https://zian-chen.github.io/blogs/230910)
+
+- [论文初体验](https://zian-chen.github.io/blogs/230129)
+
