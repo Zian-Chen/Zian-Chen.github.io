@@ -28,7 +28,9 @@ Currently, I am pursuing the cycle d'ingénieur polytechnicien at the École Pol
 
 ## Research Interests
 
-<br> Mathematics to be applied.
+Mathematics to be applied.
+
+<br> 
 
 ---
 
