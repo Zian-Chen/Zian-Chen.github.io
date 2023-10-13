@@ -28,12 +28,12 @@ Currently, I am pursuing the cycle d'ingénieur polytechnicien at the École Pol
 
 ## Research Interests
 
-
-<br>
+<br> Mathematics to be applied.
 
 ---
 
 ## News and Updates
 
+ - **10.03.2023** Upload a new blog.
 
 <br>

@@ -30,10 +30,12 @@ Actuellement, je poursuis le cycle ingénieur polytechnicien à l'École Polytec
 
 ## Intérêts de recherche
 
-<br>
+<br> Mathématiques pas encore appliquées.
 
 ---
 
 ## Actualités et mises à jour
+
+- **03.10.2023** Télécharger un nouveau blog.
 
 <br>
