@@ -8,15 +8,18 @@ title: Others
 
 ## Teaching
 
-电动力学助教
+Worked as a teaching assistant in the electrodynamics course taught by Jian Liu.
+- **[第一次习题课](https://zian-chen.github.io/file/TD-1.pdf)** Introduced the Lagrangian theory of fields
+- **[第二次习题课](https://zian-chen.github.io/file/TD-2.pdf)** Summary of knowledge for some of the post-course exercises
+- **[第三次习题课](https://zian-chen.github.io/file/TD-3.pdf)** An introduction to the Lagrangian theory of electromagnetic fields
 
 ## Social and Voluntary Works
 
-院刊
+Member of the publicity department of the School of Gifted Young, editor of its magazine *A Dream of Youth*.
 
 ## Past Hobbies
 
-中国象棋与国际象棋
+Chinese Chess and Chess.
 
 ## Friend Links
 
