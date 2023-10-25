@@ -36,6 +36,7 @@ Mathematics to be applied.
 
 ## News and Updates
 
+ - **10.25.2023** Upload a new book report.
  - **10.03.2023** Upload a new blog.
 
 <br>
