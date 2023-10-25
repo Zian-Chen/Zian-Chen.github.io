@@ -38,7 +38,7 @@ title: Publications
 
 - [Book Report - Debt, The First 5000 Years](https://zian-chen.github.io/file/La_fiche_de_lecture.pdf)(French)
 <br>**Zian Chen**
-<br>School of Humanities and Social Sciences, École Polytechnique
+<br>Department of Humanities and Social Sciences, École Polytechnique
 <br>Palaiseau, France. Octobre, 2023.
 <br>
 
