@@ -32,3 +32,13 @@ title: Publications_zh
 <br>中国合肥, 2022年5月
 <br>
 
+---
+
+## Coursework
+
+- [读书报告 - 债, 五千年的历史](https://zian-chen.github.io/file/La_fiche_de_lecture.pdf)(法文)
+<br>**陈子安**
+<br>巴黎综合理工学院人文与社会科学学院
+<br>法国帕莱索, 2023年10月
+<br>
+

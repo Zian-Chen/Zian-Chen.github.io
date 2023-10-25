@@ -32,3 +32,14 @@ title: Publications
 <br>Hefei, China. May, 2022.
 <br>
 
+---
+
+## Coursework
+
+- [Book Report - Debt, The First 5000 Years](https://zian-chen.github.io/file/La_fiche_de_lecture.pdf)(French)
+<br>**Zian Chen**
+<br>School of Humanities and Social Sciences, École Polytechnique
+<br>Palaiseau, France. Octobre, 2023.
+<br>
+
+
