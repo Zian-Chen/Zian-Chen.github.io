@@ -36,7 +36,7 @@ title: Publications_zh
 
 ## 课程作业
 
-- [读书报告 - 债, 五千年的历史](https://zian-chen.github.io/file/La_fiche_de_lecture.pdf)(法文)
+- [读书报告: 债, 五千年的历史](https://zian-chen.github.io/file/La_fiche_de_lecture.pdf)(法文)
 <br>**陈子安**
 <br>巴黎综合理工学院人文与社会科学部门
 <br>法国帕莱索, 2023年10月
