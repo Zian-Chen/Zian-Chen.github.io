@@ -13,6 +13,8 @@ Only Chinese can express my inner thoughts.
 
 ### 2023
 
+- **2023.12.01** [雾与魔法与黄金之地的故事](https://zian-chen.github.io/blogs/231201)
+
 - **2023.11.08** [X 2A P1](https://zian-chen.github.io/blogs/231108)
 
 - **2023.10.03** [Huawei Tech Arena 2023](https://zian-chen.github.io/blogs/231003)
