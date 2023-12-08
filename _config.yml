@@ -14,7 +14,7 @@ owner:
   # twitter: 
   facebook: profile.php?id=100091147999812
   github: Zian-Chen
-  # linkedin: 
+  linkedin: https://www.linkedin.com/in/zian-chen-21508a2a3/
   # scholar: https://scholar.google.com/citations?user=
   # instagram: 
   # lastfm:
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/Zian_Chen_CV_en.pdf
+    url: /file/CV Zian Chen Polytechnique 2A.pdf
   - title: Publications
     url: /publications/
   # - title: Projects
