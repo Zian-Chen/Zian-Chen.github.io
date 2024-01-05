@@ -11,6 +11,10 @@ Only Chinese can express my inner thoughts.
 
 ## 博客
 
+### 2024
+
+- **2024.01.05** [友谊和历史谁将地久天长](https://zian-chen.github.io/blogs/240105)
+
 ### 2023
 
 - **2023.12.25** [年度总结](https://zian-chen.github.io/blogs/231225)
