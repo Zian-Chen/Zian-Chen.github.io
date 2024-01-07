@@ -38,9 +38,4 @@ Mathématiques pas encore appliquées.
 
 ## Actualités et mises à jour
 
-- **01.12.2023** Importer un nouveau blog.
-- **08.11.2023** Importer un nouveau blog.
-- **25.10.2023** Importer une nouvelle fiche de lecture.
-- **03.10.2023** Importer un nouveau blog.
-
 <br>
