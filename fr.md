@@ -30,7 +30,7 @@ Actuellement, je poursuis le cycle ingénieur polytechnicien à l'École Polytec
 
 ## Intérêts de recherche
 
-Mathématiques pas encore appliquées.
+Mathématiques à appliquer.
 
 <br> 
 
