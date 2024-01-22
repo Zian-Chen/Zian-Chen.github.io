@@ -29,3 +29,7 @@ Only Chinese can express my inner thoughts.
 
 - **2023.01.29** [论文初体验](https://zian-chen.github.io/blogs/230129)
 
+### 时间之外
+
+- **××××.××.××** 非正式的关于我
+
