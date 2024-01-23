@@ -31,5 +31,5 @@ Only Chinese can express my inner thoughts.
 
 ### 时间之外
 
-- **××××.××.××** 非正式的关于我
+- [**××××.××.××**](https://zian-chen.github.io/blogs/xxxxxx)
 
