@@ -10,7 +10,7 @@ title: Publications_zh
 
 ## 本科毕业论文
 
-- [七维流形上的G<sub>2</sub>-结构](https://zian-chen.github.io/papers/Thesis_without_acknowledgements.pdf)(中文)
+- [七维流形上的 G<sub>2</sub>-结构](https://zian-chen.github.io/papers/Thesis_without_acknowledgements.pdf)(中文)
 <br>**陈子安** (指导老师: 殷浩)
 <br>中国科大少年班学院
 <br>中国合肥, 2023年6月
@@ -26,7 +26,7 @@ title: Publications_zh
 <br>中国合肥, 2022年6月
 <br>
 
-- [四维Riemann几何中的自对偶](https://zian-chen.github.io/papers/Self-Duality.pdf)(中文)
+- [四维 Riemann 几何中的自对偶](https://zian-chen.github.io/papers/Self-Duality.pdf)(中文)
 <br>**陈子安**, 张乐, 朱海鑫 (指导老师: 殷浩)
 <br>中国科大数学科学学院
 <br>中国合肥, 2022年5月
