@@ -13,6 +13,8 @@ Only Chinese can express my inner thoughts.
 
 ### 2024
 
+- **2024.03.04** [X 2A P2](https://zian-chen.github.io/blogs/240304)
+
 - **2024.01.05** [友谊和历史谁将地久天长](https://zian-chen.github.io/blogs/240105)
 
 ### 2023
