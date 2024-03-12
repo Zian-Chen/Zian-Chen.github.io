@@ -23,7 +23,7 @@ title: Others_zh
 
 ## 友情链接
 
-[张梓昂](https://zhang-ziang.github.io/) [邹思远](https://siyuan-zou.github.io/)
+[张梓昂](https://zhang-ziang.github.io/) [邹思远](https://siyuan-zou.github.io/) [叶骁炜](https://xiaoweiyexavier.github.io/)
 
 <!--<div class="third">
 <img src="/images/prelection1.JPG">

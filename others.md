@@ -23,7 +23,7 @@ Chinese Chess and Chess.
 
 ## Friend Links
 
-[Ziang Zhang](https://zhang-ziang.github.io/) [Siyuan Zou](https://siyuan-zou.github.io/)
+[Ziang Zhang](https://zhang-ziang.github.io/) [Siyuan Zou](https://siyuan-zou.github.io/) [Xiaowei Ye](https://xiaoweiyexavier.github.io/)
 
 
 <!--<div class="third">
