@@ -7,6 +7,8 @@ title: Blogs
 Only Chinese can express my inner thoughts.
 <br> Seul le chinois peut exprimer mes pensées les plus intimes.
 
+> 文字有如密电, 每个人手中都有一本自己的密码本, 能译出来多少便读多少; 若是无法读出, 那便不是为你而写.
+
 ---
 
 ## 博客
