@@ -8,7 +8,7 @@ title: Others
 
 ## Teaching
 
-Worked as a teaching assistant in the electrodynamics course taught by Jian Liu.
+Worked as a teaching assistant in the electrodynamics course taught by Prof. Jian Liu.
 - **[First exercise class](https://zian-chen.github.io/file/TD-1.pdf)** Introduced the Lagrangian theory of fields
 - **[Second exercise class](https://zian-chen.github.io/file/TD-2.pdf)** Summary of knowledge for some of the post-course exercises
 - **[Third exercise class](https://zian-chen.github.io/file/TD-3.pdf)** An introduction to the Lagrangian theory of electromagnetic fields
