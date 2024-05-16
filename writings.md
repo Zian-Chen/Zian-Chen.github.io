@@ -1,24 +1,30 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /writings/index.html
+title: Writings
 ---
 
-**[中文版](https://zian-chen.github.io/publications_zh/)**
+**[中文版](https://zian-chen.github.io/writings_zh/)**
 
-# Publications
+# Writings
 
 ## Undergrad Thesis
 
 - [G<sub>2</sub>-Structures on 7-Manifolds](https://zian-chen.github.io/papers/Thesis_without_acknowledgements.pdf)(Chinese)
 <br>**Zian Chen** (Advisor: Hao Yin)
 <br>School of Gifted Young, USTC
-<br>Hefei, China. May, 2023.
+<br>Hefei, China. June, 2023.
 <br>
 
 ---
 
-## Other Writings
+## Project Reports
+
+- [Matrix Monotone Functions and Loewner's Theorem](https://zian-chen.github.io/file/MAT02_rapportfinal.pdf) and its [silde](https://zian-chen.github.io/file/presentation_psc.pdf)(French)
+<br>Vincent-Adam Alimi, **Zian Chen**, Abderrahman Kantos, Matéo Pirio Rossignol, Mohamed Sangaré, Ayoub Tirdad (Advisor: Siarhei Finski)
+<br>Department of Mathematics & Mathematical Centre of Laurent Schwartz, École Polytechnique
+<br>Palaiseau, France. May, 2023.
+<br>
 
 - [Introduction to Principal Bundle](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf)(Chinese)
 <br>Kaicheng Bao, **Zian Chen**
