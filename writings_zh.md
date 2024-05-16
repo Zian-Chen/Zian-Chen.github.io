@@ -38,6 +38,7 @@ title: Writings_zh
 <br>中国合肥, 2022 年五月
 <br>
 
+<!--
 ---
 
 ## 课程作业
@@ -46,5 +47,5 @@ title: Writings_zh
 <br>**陈子安**
 <br>巴黎综合理工学院人文与社会科学部门
 <br>法国 Palaiseau, 2023 年十月
-<br>
+<br> -->
 
