@@ -29,7 +29,7 @@ title: Writings_zh
 - [主从介绍](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf)(中文)
 <br>包恺成, **陈子安**
 <br>中国科大数学科学学院
-<br>中国合肥, 2022年6月
+<br>中国合肥, 2022 年六月
 <br>
 
 - [四维 Riemann 几何中的自对偶](https://zian-chen.github.io/papers/Self-Duality.pdf)(中文)
