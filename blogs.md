@@ -15,6 +15,8 @@ Only Chinese can express my inner thoughts.
 
 ### 2024
 
+- **2024.05.17** [**一念梦起**](https://zian-chen.github.io/blogs/240517)
+
 - **2024.04.17** [**勿以有限身, 常供无尽愁**](https://zian-chen.github.io/blogs/240417)
 
 - **2024.03.04** [**X 2A P2**](https://zian-chen.github.io/blogs/240304)
