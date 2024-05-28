@@ -10,29 +10,29 @@ title: Writings_zh
 
 ## 本科毕业论文
 
-- [七维流形上的 G<sub>2</sub>-结构](https://zian-chen.github.io/papers/Thesis_without_acknowledgements.pdf)(中文)
+- [七维流形上的 G<sub>2</sub>-结构](https://zian-chen.github.io/papers/Thesis_without_acknowledgements.pdf)及[其幻灯片](https://zian-chen.github.io/file/ustcmb-main.pdf) (中文)
 <br>**陈子安** (指导老师: 殷浩)
 <br>中国科大少年班学院
-<br>中国合肥, 2023 年六月
+<br>中国合肥, 2023 年五月
 <br>
 
 ---
 
 ## 项目报告
 
-- [矩阵递增函数与 Loewner 定理](https://zian-chen.github.io/file/MAT02_rapportfinal.pdf)及其[幻灯片](https://zian-chen.github.io/file/presentation_psc.pdf)(法文)
+- [矩阵递增函数与 Loewner 定理](https://zian-chen.github.io/file/MAT02_rapportfinal.pdf)及[其幻灯片](https://zian-chen.github.io/file/presentation_psc.pdf) (法文)
 <br>Vincent-Adam Alimi, **陈子安**, Abderrahman Kantos, Matéo Pirio Rossignol, Mohamed Sangaré, Ayoub Tirdad (指导老师: Siarhei Finski)
 <br>巴黎综合理工学院数学部门与 Laurent Schwartz 数学中心
 <br>法国 Palaiseau, 2024 年五月
 <br>
 
-- [主从介绍](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf)(中文)
+- [主从介绍](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf) (中文)
 <br>包恺成, **陈子安**
 <br>中国科大数学科学学院
 <br>中国合肥, 2022 年六月
 <br>
 
-- [四维 Riemann 几何中的自对偶](https://zian-chen.github.io/papers/Self-Duality.pdf)(中文)
+- [四维 Riemann 几何中的自对偶](https://zian-chen.github.io/papers/Self-Duality.pdf) (中文)
 <br>**陈子安**, 张乐, 朱海鑫 (指导老师: 殷浩)
 <br>中国科大数学科学学院
 <br>中国合肥, 2022 年五月
