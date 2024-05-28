@@ -32,7 +32,7 @@ title: Writings
 <br>Hefei, China. June, 2022.
 <br>
 
-- [Self-Dual in 4D Riemannian Geometry](https://zian-chen.github.io/papers/Self-Duality.pdf) (Chinese)
+- [Self-Dual in 4D Riemannian Geometry](https://zian-chen.github.io/papers/Self-Duality.pdf) and [its silde](https://zian-chen.github.io/file/SDPPT.pdf) (Chinese)
 <br>**Zian Chen**, Le Zhang, Haixin Zhu (Advisor: Hao Yin)
 <br>School of Mathematical Sciences, USTC
 <br>Hefei, China. May, 2022.

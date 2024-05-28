@@ -32,7 +32,7 @@ title: Writings_zh
 <br>中国合肥, 2022 年六月
 <br>
 
-- [四维 Riemann 几何中的自对偶](https://zian-chen.github.io/papers/Self-Duality.pdf) (中文)
+- [四维 Riemann 几何中的自对偶](https://zian-chen.github.io/papers/Self-Duality.pdf)及[其幻灯片](https://zian-chen.github.io/file/SDPPT.pdf) (中文)
 <br>**陈子安**, 张乐, 朱海鑫 (指导老师: 殷浩)
 <br>中国科大数学科学学院
 <br>中国合肥, 2022 年五月
