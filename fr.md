@@ -38,4 +38,6 @@ Mathématiques à appliquer.
 
 ## Actualités et mises à jour
 
+- **Juin 2024** Début de stage à X-Asset Management
+
 <br>

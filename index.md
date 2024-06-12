@@ -36,4 +36,6 @@ Mathematics to be applied.
 
 ## News and Updates
 
+- **June 2024** Started internship at X-Asset Management
+
 <br>
