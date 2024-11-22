@@ -18,7 +18,7 @@ Currently, I am pursuing the cycle d'ingénieur polytechnicien at the École Pol
 
 ## Education
 
-- **Sep. 2022 - June 2025** École Polytechnique, Master d'ingénieur polytechnicien
+- **Sep. 2022 - June 2026** École Polytechnique, Master d'ingénieur polytechnicien
 - **Sep. 2019 - June 2023** University of Science and Technology of China, Bachelor of Natural Science
 - **Sep. 2017 - June 2020** Zhejiang Wenzhou High School
 

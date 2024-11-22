@@ -24,7 +24,7 @@ title: About me_zh
 
 <!--**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)-->
 
-- **2022年九月 - 2025年六月** 巴黎综合理工学院, 工程师硕士
+- **2022年九月 - 2026年六月** 巴黎综合理工学院, 工程师硕士
 - **2019年九月 - 2023年六月** 中国科学技术大学, 理学学士
 - **2017年九月 - 2020年六月** 浙江省温州中学
 

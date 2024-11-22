@@ -20,7 +20,7 @@ Actuellement, je poursuis le cycle ingénieur polytechnicien à l'École Polytec
 
 ## Formation
 
-- **Sep 2022 - Juin 2025** École Polytechnique, Master d'ingénieur polytechnicien
+- **Sep 2022 - Juin 2026** École Polytechnique, Master d'ingénieur polytechnicien
 - **Sep 2019 - Juin 2023** Université des Sciences et Technologies de Chine, Licence de Sciences Naturelles
 - **Sep 2017 - Juin 2020** Lycée de Wenzhou Zhejiang
 
