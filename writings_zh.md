@@ -20,6 +20,12 @@ title: Writings_zh
 
 ## 项目报告
 
+- [Feller 过程不变分布的递归计算](https://zian-chen.github.io/file/Rapport_EA.pdf)及[其幻灯片](https://zian-chen.github.io/file/Presentation_EA.pdf) (英文)
+<br>陈睿恺, **陈子安**, Tiena Soro (指导老师: Clément Rey)
+<br>巴黎综合理工学院应用数学数学部门
+<br>法国 Palaiseau, 2024 年十二月
+<br>
+
 - [矩阵递增函数与 Loewner 定理](https://zian-chen.github.io/file/MAT02_rapportfinal.pdf)及[其幻灯片](https://zian-chen.github.io/file/presentation_psc.pdf) (法文)
 <br>Vincent-Adam Alimi, **陈子安**, Abderrahman Kantos, Matéo Pirio Rossignol, Mohamed Sangaré, Ayoub Tirdad (指导老师: Siarhei Finski)
 <br>巴黎综合理工学院数学部门与 Laurent Schwartz 数学中心

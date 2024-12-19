@@ -20,10 +20,16 @@ title: Writings
 
 ## Project Reports
 
+- [Recursive Computation of Invariant Distribution of Feller Process](https://zian-chen.github.io/file/Rapport_EA.pdf) and [its silde](https://zian-chen.github.io/file/Presentation_EA.pdf) (English)
+<br>Ruikai Chen, **Zian Chen**, Tiena Soro (Advisor: Clément Rey)
+<br>Department of Applied Mathematics, École Polytechnique
+<br>Palaiseau, France. December, 2024.
+<br>
+
 - [Matrix Monotone Functions and Loewner's Theorem](https://zian-chen.github.io/file/MAT02_rapportfinal.pdf) and [its silde](https://zian-chen.github.io/file/presentation_psc.pdf) (French)
 <br>Vincent-Adam Alimi, **Zian Chen**, Abderrahman Kantos, Matéo Pirio Rossignol, Mohamed Sangaré, Ayoub Tirdad (Advisor: Siarhei Finski)
 <br>Department of Mathematics & Mathematical Centre of Laurent Schwartz, École Polytechnique
-<br>Palaiseau, France. May, 2023.
+<br>Palaiseau, France. May, 2024.
 <br>
 
 - [Introduction to Principal Bundle](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf) (Chinese)
