@@ -22,7 +22,7 @@ title: Writings_zh
 
 - [Feller 过程不变分布的递归计算](https://zian-chen.github.io/file/Rapport_EA.pdf)及[其幻灯片](https://zian-chen.github.io/file/Presentation_EA.pdf) (英文)
 <br>陈睿恺, **陈子安**, Tiena Soro (指导老师: Clément Rey)
-<br>巴黎综合理工学院应用数学数学部门
+<br>巴黎综合理工学院应用数学部门
 <br>法国 Palaiseau, 2024 年十二月
 <br>
 
