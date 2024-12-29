@@ -15,6 +15,8 @@ Only Chinese can express my inner thoughts.
 
 ### 2024
 
+- **2024.12.29** [**长安如梦里, 何日是归期?**](https://zian-chen.github.io/blogs/241229)
+
 - **2024.12.19** [**X 3A P1**](https://zian-chen.github.io/blogs/241219)
 
 - **2024.08.10** [**七夕**](https://zian-chen.github.io/blogs/240810)
