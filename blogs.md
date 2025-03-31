@@ -13,6 +13,10 @@ Only Chinese can express my inner thoughts.
 
 ## 博客
 
+### 2025
+
+- **2025.03.31** [**X 3A P2**](https://zian-chen.github.io/blogs/250331)
+
 ### 2024
 
 - **2024.12.29** [**长安如梦里, 何日是归期?**](https://zian-chen.github.io/blogs/241229)
