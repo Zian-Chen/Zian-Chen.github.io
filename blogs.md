@@ -15,7 +15,7 @@ Only Chinese can express my inner thoughts.
 
 ### 2025
 
-- **2025.03.31** [**X 3A P2**](https://zian-chen.github.io/blogs/250331)
+- **2025.××.××** **待定年终总结标题**
 
 ### 2024
 
