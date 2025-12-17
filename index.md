@@ -20,7 +20,8 @@ In my personal life, I enjoy spending time with friends. Due to geographical and
 
 ## Education
 
-- **Sep. 2022 - June 2026** École Polytechnique, Master d'ingénieur polytechnicien
+- **Sep. 2022 - Sep. 2026** École Polytechnique, Master d'ingénieur polytechnicien
+- **Sep. 2025 - Sep. 2026** University Paris 6, Master of Sciences
 - **Sep. 2019 - June 2023** University of Science and Technology of China, Bachelor of Natural Science
 - **Sep. 2017 - June 2020** Zhejiang Wenzhou High School
 
@@ -38,6 +39,7 @@ Mathematics to be applied.
 
 ## News and Updates
 
+- **April 2025** Started internship at Capital Fund Manangement
 - **June 2024** Started internship at X-Asset Management
 
 <br>

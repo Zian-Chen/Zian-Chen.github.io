@@ -22,7 +22,8 @@ Dans ma vie personnelle, j'aime passer du temps avec mes amis. En raison de cont
 
 ## Formation
 
-- **Sep 2022 - Juin 2026** École Polytechnique, Cycle d'ingénieur polytechnicien
+- **Sep 2022 - Sep 2026** École Polytechnique, Cycle d'ingénieur polytechnicien
+- **Sep 2025 - Sep 2026** Université Paris 6, Master
 - **Sep 2019 - Juin 2023** Université des Sciences et Technologies de Chine, Licence de Sciences Naturelles
 - **Sep 2017 - Juin 2020** Lycée de Wenzhou Zhejiang
 
@@ -40,6 +41,7 @@ Mathématiques à appliquer.
 
 ## Actualités et mises à jour
 
-- **Juin 2024** Début de stage à X-Asset Management
+- **Avril 2025** Début de stage chez Capital Fund Management
+- **Juin 2024** Début de stage chez X-Asset Management
 
 <br>
