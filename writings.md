@@ -32,7 +32,7 @@ title: Writings
 <br>Palaiseau, France. May, 2024.
 <br>
 
-- [Introduction to Principal Bundle](http://staff.ustc.edu.cn/~mathsu01/pu/pdf/Warming_65(2022.06).pdf) (Chinese)
+- [Introduction to Principal Bundle](https://zian-chen.github.io/file/waming065.pdf) (Chinese)
 <br>Kaicheng Bao, **Zian Chen**
 <br>School of Mathematical Sciences, USTC
 <br>Hefei, China. June, 2022.
