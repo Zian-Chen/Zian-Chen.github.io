@@ -39,6 +39,7 @@ Mathematics to be applied.
 
 ## News and Updates
 
+- **April 2026** Started internship at Squarepoint Capital
 - **April 2025** Started internship at Capital Fund Manangement
 - **June 2024** Started internship at X-Asset Management
 

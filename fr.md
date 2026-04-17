@@ -41,6 +41,7 @@ Mathématiques à appliquer.
 
 ## Actualités et mises à jour
 
+- **Avril 2026** Début de stage chez Squarepoint Capital
 - **Avril 2025** Début de stage chez Capital Fund Management
 - **Juin 2024** Début de stage chez X-Asset Management
 
