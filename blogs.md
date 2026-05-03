@@ -23,8 +23,6 @@ Only Chinese can express my inner thoughts.
 
 - **2024.12.19** [**X 3A P1**](https://zian-chen.github.io/blogs/241219)
 
-- **2024.08.10** [**七夕**](https://zian-chen.github.io/blogs/240810)
-
 - **2024.06.04** [**X 2A P3**](https://zian-chen.github.io/blogs/240604)
 
 - **2024.05.17** [**一念梦起**](https://zian-chen.github.io/blogs/240517)
